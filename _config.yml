@@ -1,0 +1,9 @@
+title: Mi Portfolio
+author: Tu Nombre
+description: Sitio personal con Jekyll
+baseurl: ""
+url: "https://tuusuario.github.io"
+disqus:
+  shortname: ""
+markdown: kramdown
+theme: minima
